@@ -32,25 +32,25 @@ Template matching — метод, основанный на нахождении
 
 ## Приимер выполнения программы:
 
-![Image fragment](results/output_1.jpg)
+![Image fragment](results/output_1.png)
 
-![Image Stretch](results/output_2.jpg)
+![Image Stretch](results/output_2.png)
 
-![Glare](results/output_3.jpg)
+![Glare](results/output_3.png)
 
-![Angle rotation](results/output_4.jpg)
+![Angle rotation](results/output_4.png)
 
-![Noise](results/output_5.jpg)
+![Noise](results/output_5.png)
 
-![Negative](results/output_6.jpg)
+![Negative](results/output_6.png)
 
-![Decrease contrast and brightness](results/output_7.jpg)
+![Decrease contrast and brightness](results/output_7.png)
 
-![Image Distortion](results/output_8.jpg)
+![Image Distortion](results/output_8.png)
 
-![Perspective change (horizontal)](results/output_9.jpg)
+![Perspective change (horizontal)](results/output_9.png)
 
-![Perspective change (vertical)](results/output_10.jpg)
+![Perspective change (vertical)](results/output_10.png)
 
 
 ## Вывод:
