@@ -29,7 +29,7 @@ Template matching — это метод обработки цифровых из
  - CV_TM_CCOEFF — кросс-коррелация изображений без среднего
  - CV_TM_CCOEFF_NORMED — кросс-корреляция между изображениями без среднего (нормированно -1..1)
 
-![Формулы](imgs/fromula.png)
+![Формулы](imgs/theory.png)
 
 ## Пример выполнения программы:
 
@@ -59,7 +59,11 @@ Template matching — это метод обработки цифровых из
 
 
 ## Ссылки на источники: 
+
 https://habr.com/ru/post/519454/
+
 https://docs.opencv.org/4.x/d4/dc6/tutorial_py_template_matching.html
+
 https://habr.com/ru/company/joom/blog/445354/
+
 https://robocraft.ru/computervision/3046
